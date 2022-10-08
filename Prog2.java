@@ -8,6 +8,7 @@ Create a class Prog2 8Test that tests your method on the following input array
 45, 0, 12, 18, 6, 3, 1, 0,
 -221
 **/
+//Myo KHant Kyaw
 public class Prog2{
 
 	public static int min(int [] arrayOflints){
