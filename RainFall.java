@@ -27,7 +27,7 @@ public class RainFall{
 			System.out.println("Year "+(i+1)+" >>>");
 			for(int j=0; j<numOfMonths; j++){
 				System.out.println("How much rainfall (inches)");
-				System.out.print("For month :"+(j+1)+" : ");
+				System.out.print("For month "+(j+1)+" : ");
 				double rainfall=sc.nextDouble();
 				totalRainfall+=rainfall;
 				totalNumOfMonths++;
